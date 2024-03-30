@@ -12,12 +12,12 @@ export const productList = [
     "category": "smartwatch",
     "thumbnail": "../images/samsung galaxy watch 4.jpg",
     "images": [
-      "/images/samsung galaxy 4 brand.jpg",
-      "samsung galaxy watch 4 ad2.jpg",
-      "samsung galaxy watch 4.jpg",
-      "samsung galaxy watch 4 back.jpg",
-      "samsung galaxy watch 4 side.jpg",
-      "samsung glaxy watch 4 ad.jpg"
+      "D:\myproject\ecommerce-app\public\samsung galaxy 4 brand.jpg",
+      "D:\myproject\ecommerce-app\public\samsung galaxy watch 4 ad2.jpg",
+      "D:\myproject\ecommerce-app\public\samsung galaxy watch 4.jpg",
+      "D:\myproject\ecommerce-app\public\samsung galaxy watch 4 back.jpg",
+      "D:\myproject\ecommerce-app\public\samsung galaxy watch 4 side.jpg",
+      "D:\myproject\ecommerce-app\public\samsung glaxy watch 4 ad.jpg"
 
     ]
   },    
@@ -77,7 +77,7 @@ export const productList = [
     "stock": 50,
     "brand": "APPLE",
     "category": "smartwatch",
-    "thumbnail": "../images/apple se a.jpg",
+    "thumbnail": "../images/apple SE 4",
     "images": [
       "D:\myproject\ecommerce-app\public\apple se front.jpg",
       "D:\myproject\ecommerce-app\public\apple se a.jpg",
@@ -205,10 +205,10 @@ export const productList = [
     "category": "smartwatch",
     "thumbnail": "../images/noise agile 2 full.jpg",
     "images": [
-      "noise agile 2 display.jpg",
-      "noise agile 2 color.jpg",
-      "noise agile add1.jpg",
-      "noise agile 2 add 2.jpg",
+      "D:\myproject\ecommerce-app\public\noise agile 2 display.jpg",
+      "D:\myproject\ecommerce-app\public\noise agile 2 color.jpg",
+      "D:\myproject\ecommerce-app\public\noise agile add1.jpg",
+      "D:\myproject\ecommerce-app\public\noise agile 2 add 2.jpg",
       
     ]
   },
@@ -226,10 +226,10 @@ export const productList = [
     "category": "smartwatch",
     "thumbnail": "../images/noise pulse grand full.jpg",
     "images": [
-      "",
-      "",
-      "",
-      "",
+      "D:\myproject\ecommerce-app\public\noise pulse grand full.jpg",
+      "D:\myproject\ecommerce-app\public\noise pulse grand full.jpg",
+      "D:\myproject\ecommerce-app\public\noise pulse grand full.jpg",
+      "D:\myproject\ecommerce-app\public\noise pulse grand full.jpg",
 
 ]
 
@@ -248,11 +248,11 @@ export const productList = [
       "category": "smartwatch",
       "thumbnail": "../images/boat wave lite full.jpg",
       "images": [
-        "boat wave lite display.jpg",
-        "boat wave lite band.jpg",
-        "boat wave lite specification.jpg",
-        "boat wave lite add1.jpg",
-        "boat wave lite full drag and slite.jpg"
+        "D:\myproject\ecommerce-app\public\boat wave lite display.jpg",
+        "D:\myproject\ecommerce-app\public\boat wave lite band.jpg",
+        "D:\myproject\ecommerce-app\public\boat wave lite specification.jpg",
+        "D:\myproject\ecommerce-app\public\boat wave lite add1.jpg",
+        "D:\myproject\ecommerce-app\public\boat wave lite full drag and slite.jpg"
   
   ]
   
@@ -271,10 +271,10 @@ export const productList = [
         "category": "smartwatch",
         "thumbnail": "../images/bolt fire full.jpg",
         "images": [
-          "bolt fire add1.jpg",
-          "boat fire add2.jpg",
-          "boat fire add3.jpg",
-          "boat fire specification.jpg",
+          "D:\myproject\ecommerce-app\public\bolt fire add1.jpg",
+          "D:\myproject\ecommerce-app\public\boat fire add2.jpg",
+          "D:\myproject\ecommerce-app\public\boat fire add3.jpg",
+          "D:\myproject\ecommerce-app\public\boat fire specification.jpg",
     
     ]
     
@@ -293,10 +293,10 @@ export const productList = [
           "category": "smartwatch",
           "thumbnail": "../images/boat wave call full.jpg",
           "images": [
-            "boat wave call display.jpg",
-            "boat wave call display 1.jpg",
-            "boat wave call color.jpg",
-            "boat wave call specification.jpg",
+            "D:\myproject\ecommerce-app\public\boat wave call display.jpg",
+            "D:\myproject\ecommerce-app\public\boat wave call display 1.jpg",
+            "D:\myproject\ecommerce-app\public\boat wave call color.jpg",
+            "D:\myproject\ecommerce-app\public\boat wave call specification.jpg",
       
       ]
       
@@ -315,10 +315,10 @@ export const productList = [
             "category": "smartwatch",
             "thumbnail": "../images/boat etend pro full.jpg",
             "images": [
-              "D:boat extend pro add1.jpg",
-              "boat extend pro display full.jpg",
-              "boat extend pro display.jpg",
-              "boat extend pro full band.jpg",
+              "D:\myproject\ecommerce-app\public\boat extend pro add1.jpg",
+              "D:\myproject\ecommerce-app\public\boat extend pro display full.jpg",
+              "D:\myproject\ecommerce-app\public\boat extend pro display.jpg",
+              "D:\myproject\ecommerce-app\public\boat extend pro full band.jpg",
         
         ]
         
@@ -337,10 +337,10 @@ export const productList = [
               "category": "smartwatch",
               "thumbnail": "../images/noise colorfit 2.jpg",
               "images": [
-                "D:boat extend pro add1.jpg",
-                "boat extend pro display full.jpg",
-                "boat extend pro display.jpg",
-                "boat extend pro full band.jpg",
+                "D:\myproject\ecommerce-app\public\boat extend pro add1.jpg",
+                "D:\myproject\ecommerce-app\public\boat extend pro display full.jpg",
+                "D:\myproject\ecommerce-app\public\boat extend pro display.jpg",
+                "D:\myproject\ecommerce-app\public\boat extend pro full band.jpg",
           
           ]
           
@@ -359,10 +359,10 @@ export const productList = [
                 "category": "smartwatch",
                 "thumbnail":"../images/noiseuniwatch5.webp",
                 "images": [
-                  "D:boat extend pro add1.jpg",
-                  "boat extend pro display full.jpg",
-                  "boat extend pro display.jpg",
-                  "boat extend pro full band.jpg",
+                  "D:\myproject\ecommerce-app\public\boat extend pro add1.jpg",
+                  "D:\myproject\ecommerce-app\public\boat extend pro display full.jpg",
+                  "D:\myproject\ecommerce-app\public\boat extend pro display.jpg",
+                  "D:\myproject\ecommerce-app\public\boat extend pro full band.jpg",
             
             ]
             
@@ -381,10 +381,10 @@ export const productList = [
                   "category": "smartwatch",
                   "thumbnail": "../images/fire boltt tank full.jpg",
                   "images": [
-                    "D:boat extend pro add1.jpg",
-                    "boat extend pro display full.jpg",
-                    "boat extend pro display.jpg",
-                    "boat extend pro full band.jpg",
+                    "D:\myproject\ecommerce-app\public\boat extend pro add1.jpg",
+                    "D:\myproject\ecommerce-app\public\boat extend pro display full.jpg",
+                    "D:\myproject\ecommerce-app\public\boat extend pro display.jpg",
+                    "D:\myproject\ecommerce-app\public\boat extend pro full band.jpg",
               
               ]
               
@@ -403,10 +403,10 @@ export const productList = [
                     "category": "smartwatch",
                     "thumbnail": "../images/Boat extend big full.webp",
                     "images": [
-                      "D:boat extend pro add1.jpg",
-                      "boat extend pro display full.jpg",
-                      "boat extend pro display.jpg",
-                      "boat extend pro full band.jpg",
+                      "D:\myproject\ecommerce-app\public\boat extend pro add1.jpg",
+                      "D:\myproject\ecommerce-app\public\boat extend pro display full.jpg",
+                      "D:\myproject\ecommerce-app\public\boat extend pro display.jpg",
+                      "D:\myproject\ecommerce-app\public\boat extend pro full band.jpg",
                 
                 ]
                 
@@ -426,10 +426,10 @@ export const productList = [
                       "category": "smartwatch",
                       "thumbnail": "../images/boat wave sports full.webp",
                       "images": [
-                        "D:boat extend pro add1.jpg",
-                        "boat extend pro display full.jpg",
-                        "boat extend pro display.jpg",
-                        "boat extend pro full band.jpg",
+                        "D:\myproject\ecommerce-app\public\boat extend pro add1.jpg",
+                        "D:\myproject\ecommerce-app\public\boat extend pro display full.jpg",
+                        "D:\myproject\ecommerce-app\public\boat extend pro display.jpg",
+                        "D:\myproject\ecommerce-app\public\boat extend pro full band.jpg",
                   
                   ]
                   
